@@ -1,4 +1,5 @@
 # Desenvolvimento de sistemas de informação para biodiversidade - armadilhas e variáveis de sucesso
+
 ## 07 de Setembro de 2016
 
 >"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."
@@ -14,9 +15,12 @@ Nesta análise, não tenho como deixar de considerar um artigo que escrevi em 19
 O artigo citava "armadilhas" a se evitar e "passos fundamentais para o sucesso" na implementação de um "sistema de registros informatizado". Seguirei nesta linha, buscando validar, atualizar ou complementar estes pontos, procurando encontrar um cenário propício para o desenvolvimento de sistemas de informação sobre biodiversidade bem sucedidos.
 
 ## Armadilhas
+
 ### Investimento vs. custeio
 
 Muitos sistemas de informação sobre biodiversidade foram e são desenvolvidos tendo como fonte de recursos "projetos" que, por definição, são efêmeros. Ao final do projeto, o que resta é uma herança financeira e operacional que muitas vezes ultrapassa os custos iniciais de desenvolvimento.
+
+![Ponta do Iceberg](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/tip-of-the-iceberg.jpg)
 
 Até recentemente era quase "moda" as propostas de projetos de pesquisa conterem como "objetivo" ou "resultado esperado" um "banco de dados" (seja lá o que isso fosse!). Projetos individuais geralmente consideravam que uma planilha Excel já cumpria a promessa feita na proposta, e o sujeito entregava um "CD" gravado com a planilha junto com o relatório final do projeto e dormia o sono dos justos.
 
@@ -150,7 +154,7 @@ Referências
 
 [8] de Jesus, R. G., & de Araujo, P. M. C. (2011). O Impacto do Compromentimento na Implantação de Sistemas de Informação: o Caso Garoto-sap. VIII Simpósio deExcelência em Gestão e Tecnologia.
 
-[9] Ferreira, A. C. de Sousa & Bufoni, A. L. (2006). Fatores de sucesso e insucesso na implementação de sistemas de informação gerencial: estudo do caso do segmento de exploração e produção de petróleo da Petrobrás S/A. Revista de Administração Contemporânea, 10(2), 9-31. https://dx.doi.org/10.1590/S1415-65552006000200002
+[9] Ferreira, A. C. de Sousa & Bufoni, A. L. (2006). Fatores de sucesso e insucesso na implementação de sistemas de informação gerencial: estudo do caso do segmento de exploração e produção de petróleo da Petrobrás S/A. Revista de Administração Contemporânea, 10(2), 9-31. <https://dx.doi.org/10.1590/S1415-65552006000200002>
 
 [10] Costello, M. J., Michener, W. K., Gahegan, M., Zhang, Z. Q., & Bourne, P. E. (2013). Biodiversity data should be published, cited, and peer reviewed. Trends in Ecology & Evolution, 28(8), 454-461.
 
