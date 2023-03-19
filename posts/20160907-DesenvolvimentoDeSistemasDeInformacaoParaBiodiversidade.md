@@ -1,19 +1,20 @@
 # Desenvolvimento de sistemas de informação para biodiversidade - armadilhas e variáveis de sucesso
 ## 07 de Setembro de 2016
 
-"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."
-Alan Kay
+>"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."
+>
+>Alan Kay
 
 O desenvolvimento de sistemas de informação para biodiversidade não é trivial. Na verdade, o domínio da biodiversidade agrega um complicador - a "diversidade biológica" - a algo que já é, em si, complexo: materializar o desejo do usuário na forma de um software. Neste contexto, o volume de frustração gerado é, via de regra, superior ao volume de satisfação obtido.
 
 Não é de hoje que computadores são utilizados para manejar dados de biodiversidade. Na década de 60 e 70, já eram utilizados para processar registros de herbários e na década de 80 muito se avançou na gestão de dados taxonômicos, ou sobre as espécies. Entretanto, mesmo com todo este conhecimento acumulado, uma grande maioria de iniciativas louváveis pereceram, enquanto outras poucas sobreviveram. Assim, o que pretendo ponderar aqui é porquê algumas iniciativas em sistemas de informação sobre biodiversidade falham enquanto outras são bem sucedidas. Acredito que exista algum aprendizado nesta reflexão.
 
-Nesta análise, não tenho como deixar de considerar um artigo que escrevi em 1998, que este ano completa a maioridade, intitulado "Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos" [1]. É curioso perceber que, apesar da idade, as considerações ali contidas ainda são válidas, obviamente respeitando-se as diferenças do cenário tecnológico vigentes na época.
+Nesta análise, não tenho como deixar de considerar um artigo que escrevi em 1998, que este ano completa a maioridade, intitulado "[Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos](https://www.researchgate.net/publication/265325233_Aspectos_na_Implementacao_de_Sistemas_de_Registros_Informatizados_em_Jardins_Botanicos)" [1]. É curioso perceber que, apesar da idade, as considerações ali contidas ainda são válidas, obviamente respeitando-se as diferenças do cenário tecnológico vigentes na época.
 
 O artigo citava "armadilhas" a se evitar e "passos fundamentais para o sucesso" na implementação de um "sistema de registros informatizado". Seguirei nesta linha, buscando validar, atualizar ou complementar estes pontos, procurando encontrar um cenário propício para o desenvolvimento de sistemas de informação sobre biodiversidade bem sucedidos.
 
-Armadilhas
-Investimento vs. custeio
+## Armadilhas
+### Investimento vs. custeio
 
 Muitos sistemas de informação sobre biodiversidade foram e são desenvolvidos tendo como fonte de recursos "projetos" que, por definição, são efêmeros. Ao final do projeto, o que resta é uma herança financeira e operacional que muitas vezes ultrapassa os custos iniciais de desenvolvimento.
 
