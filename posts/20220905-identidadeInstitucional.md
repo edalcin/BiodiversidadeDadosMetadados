@@ -1,7 +1,7 @@
 # Identidade Institucional
 ## 05 de Setembro de 2022
 
-identidadeInstitucional1.jpeg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/identidadeInstitucional1.jpeg)
 
 Lido no meu dia-a-dia profissional com diferentes instituições dentro do domínio que gosto de chamar por “gestão de informação sobre biodiversidade” e, neste processo, percebo diferenças de capacidade e competência destas instituições na lida com dados e informações sobre biodiversidade. A reflexão aqui é sobre em que consiste estas diferenças e quais suas causas.
 
