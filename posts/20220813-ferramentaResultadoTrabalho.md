@@ -1,14 +1,13 @@
 # A ferramenta e o resultado do trabalho
 ## 13 de Agosto de 2022
 
-ferramentaResultadoTrabalho1.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ferramentaResultadoTrabalho1.jpg)
 
 Caros leitores,
 
 Primeiramente peço perdão pelo longo hiato de (exatamente!) dois anos, desde meu último post. Se você não vive em uma caverna inacessível de uma ilha isolada, no meio de um oceano desconhecido, sabe que os últimos dois anos foram, digamos, “transformadores”.
 
 Esta transformação se deu em diferentes “planos”, “domínios” e “intensidades”. Uma delas foi na forma de realizar o trabalho – “conjunto de atividades, produtivas ou criativas, que exercermos para atingir determinado fim“. Como destaque, o trabalho remoto, que foi uma solução que evitou o colapso de alguns setores da economia. Apoiado por tecnologias de interação por vídeo e voz, utilizando computadores e celulares conectados a Internet, esta forma de trabalho amadureceu e se consolidou como uma nova opção.
-
 
 Este antelóquio acaba tendo relação com o tema central desta postagem, pois creio ter ficado claro que neste processo de se adaptar ao “novo normal”, entramos em contato com novas ferramentas tecnológicas que possibilitaram as interações via video-voz com colegas de trabalho, e mesmo entre alunos e professores. Ferramentas como ZOOM, Google Meet, Microsoft Teams e Jitsi passaram a fazer parte do nosso dia-a-dia, ou melhor dizendo, do “conjunto de atividades, produtivas ou criativas, que exercermos para atingir determinado fim“.
 
@@ -38,7 +37,7 @@ No entanto, a solução que caiu nas minhas graças foi o GRIST. Com a chamada �
 
 Os alunos da disciplina deste ano foram apresentados ao GRIST e tiveram como opção de trabalho de conclusão da disciplina apresentar uma organização de seus dados sobre biodiversidade usando o GRIST. Um sucesso!
 
-ferramentaResultadoTrabalho2.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ferramentaResultadoTrabalho2.jpg)
 
 Chegando ao fim de mais uma “blogada”, vale algumas observações:
 
