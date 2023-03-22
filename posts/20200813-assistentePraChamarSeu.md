@@ -1,7 +1,7 @@
 # Um Assistente pra chamar de seu
 ## 13 de Agosto de 2020
 
-assistentePraChamarSeu1.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/assistentePraChamarSeu1.jpg)
 
 Neste mundo digital sobrecarregado de informações, encontrar exatamente o que se quer é uma tarefa árdua e, via de regra, frustrante. As empresas descobriram isso muito rápido, quando clientes tentam entrar em contato com o “suporte” para tirar uma dúvida ou, quase sempre, reclamar.
 
