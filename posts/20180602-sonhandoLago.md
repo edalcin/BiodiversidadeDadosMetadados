@@ -1,7 +1,7 @@
 # Sonhando com um lago
 ## 02 de Junho de 2018
 
-sonhandoLago1.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/sonhandoLago1.jpg)
 
 Há algum tempo um lago tem frequentado meus sonhos. Explico.
 
@@ -23,7 +23,7 @@ Topei com este termo bem mais tarde em uma postagem do Martin Fowler, sujeito qu
 
 Mas afinal, o que é um “Lago de Dados“? Em resumo, um Lago de Dados é um repositório centralizado que permite armazenar todos os seus dados estruturados e não estruturados em qualquer escala. Você pode armazenar seus dados no estado em que se encontram e executar diferentes tipos de análises – de “dashboards” a processamento de big data, análises em tempo real e aprendizado de máquina – para subsidisiar tomada de decisão.
 
-sonhandoLago2.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/sonhandoLago2.jpg)<br>
 _Fonte: https://canaltech.com.br/infra/EMC-oferece-solucao-de-armazenamento-e-analise-de-Data-Lake/_
 
 Não pretendo aqui discutir implementações técnicas até porque tenho sérias limitações neste sentido, apesar de andar lendo um bocado sobre o tema (o “ecossistema Hadoop” agora faz parte dos meus pesadêlos). Aliás, o que vim fazer aqui era contar meu sonho! Voltemos à ele…
