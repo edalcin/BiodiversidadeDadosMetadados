@@ -1,7 +1,7 @@
 # Era uma vez, em um reino muito distante…
 ## 18 de Dezembro de 2022
 
-eraUmaVez1.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/eraUmaVez1.jpg)
 
 Em agosto deste ano (2022) eu fiz uma postagem chamada “A ferramenta e o resultado do trabalho“, onde eu tive um despretensioso “insight“:
 
@@ -21,14 +21,15 @@ O ponto central desta postagem é que, pesquisando mais a fundo, descobri que �
 
 E mais! Data Storytelling é apenas uma das capacidades de algo que também vem me incomodando há algum tempo, e que descobri recentemente que não só tem um nome, mas que também já é uma área de conhecimento consolidada: “Data Literacy“, ou “Alfabetização de Dados”, que consiste na:
 
-“capacidade de ler, gerenciar, analisar e argumentar por meio de dados.”
+>“capacidade de ler, gerenciar, analisar e argumentar por meio de dados.”
 
 Desde a última disciplina que ministrei em junho deste ano, e em recentes oficinas que participei, percebi que a maioria dos alunos, e mesmo pesquisadores e analistas  já com carreira consolidada, tem dificuldades nesta área. Não chega ao absurdo desta jornalista, que se mostra absolutamente “analfabeta” em dados, mas, em diferentes intensidades, a maioria dos alunos tem dificuldades. Por conta disto, minha outra leitura nessas férias tem sido o livro “Data Literacy in Practice: A complete guide to data literacy and making smarter decisions with data through intelligent actions“, que recomendo fortemente. Entretanto, existe também muita literatura gratuita por aí como, por exemplo, esta publicação aqui.
 
 Estas leituras têm me causado grande impacto, e a clara percepção de que:
 
-O fenômeno do “big data” está assolando as ciências relacionadas com conservação e biodiversidade, e precisamos preparar as novas gerações para lidar com isso. Ainda estamos formando pós-graduados com base na forma de fazer ciência do século passado;
-Assim como alunos de pós-graduação, os pesquisadores e analistas também precisam se “alfabetizar em dados”. É uma atualização de capacidade profissional extremamente importante hoje em dia, mas infelizmente muito negligenciada;
-Se quisermos ampliar e potencializar nossa capacidade de causar impacto na conservação e uso sustentado e socialmente justo da biodiversidade, temos que nos capacitar em Data Storytelling e entregar a informação de forma criativa, arrebatadora e eficaz;
-Estas competências vão promover (espero!) o que é chamado de “Data-informed decision-making (DIDM)”, que, segundo Kevin Hanegan, consiste “…na capacidade de transformar informações em conhecimento acionável e verificado para, finalmente, tomar decisões de negócios“.
+* O fenômeno do “big data” está assolando as ciências relacionadas com conservação e biodiversidade, e precisamos preparar as novas gerações para lidar com isso. Ainda estamos formando pós-graduados com base na forma de fazer ciência do século passado;
+* Assim como alunos de pós-graduação, os pesquisadores e analistas também precisam se “alfabetizar em dados”. É uma atualização de capacidade profissional extremamente importante hoje em dia, mas infelizmente muito negligenciada;
+* Se quisermos ampliar e potencializar nossa capacidade de causar impacto na conservação e uso sustentado e socialmente justo da biodiversidade, temos que nos capacitar em Data Storytelling e entregar a informação de forma criativa, arrebatadora e eficaz;
+* Estas competências vão promover (espero!) o que é chamado de “Data-informed decision-making (DIDM)”, que, segundo Kevin Hanegan, consiste “__…na capacidade de transformar informações em conhecimento acionável e verificado para, finalmente, tomar decisões de negócios__“.
+
 Nada  mais urgente do que tomar decisões sobre questões que afetam nossa vida neste planeta, e decisões baseadas em fatos. Em evidências. Nosso papel é levantar estes dados, analisá-los com competência e sem nenhum viés, e aprestar informações relevantes para a tomada de decisão. E não me resta dúvida que “Data Literacy” e “Data Storytelling” são competências importantes para isso.
