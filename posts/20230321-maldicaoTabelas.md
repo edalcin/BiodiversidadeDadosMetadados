@@ -17,7 +17,7 @@ Sem dúvida alguma, conjuntos de tabelas relacionadas tem seu papel na organiza�
 
 Alguns conjuntos e dados sobre biodiversidade podem ser melhor representados sob a forma de grafos, como já comentei nesta postagem aqui. E, outra forma de estruturar dados bem popular hoje em dia é sob a foma de documentos, onde o formato mais conhecido é o JSON (JavaScript Object Notation), o filho “celebridade” do XML. Abaixo um exemplo de documento JSON, contendo dados sobre uma espécie:
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/maldicaoTabelas3.png)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/maldicaoTabelas3.png)<br>
 https://jsoncrack.com/editor?json=6416148abbe4fd1e772fdc13
 
 É claro que modelar e organizar conjuntos de dados tem que considerar a “implementação”. Ou seja, um “sistema gerenciador de banco de dados” (SGBD) capaz de lidar com a estrutura de dados específica. Lá no artigo sobre grafos comentei que experimente o Neo4J. Para lidar com documentos, tenho brincado bastante com o MongoDB, e estou trabalhando em um projeto para desenvolver uma ferramenta para converter arquivos Darwin Core para o formato JSON, que podem ser gerenciados pelo MongoDB, por exemplo.
