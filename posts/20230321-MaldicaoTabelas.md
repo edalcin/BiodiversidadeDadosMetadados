@@ -1,4 +1,7 @@
 # A Maldição das Tabelas
+## 21 de Março de 2023
+
+maldicaoTabelas1.jpg
 
 Há algum tempo venho investindo uma parte do meu tempo para ler e aprender sobre novas formas de modelar e estruturar dados. Nestes tempos que vivemos, novas tecnologias estão disponíveis e parece ser razoável considerar novas abordagens para representar o mundo real.
 
@@ -6,11 +9,16 @@ Acredita-se que as primeiras tabelas surgiram com os sumérios, na antiga Mesopo
 
 Entretanto, aprendemos com o “Professor Dalcin”, na primeira aula da disciplina de Gestão de Informação sobre Biodiversidade, que “bancos de dados nada mais são que representações do mundo real” e criar modelos do mundo real com ferramentas limitadas é como tentar representar uma esfera com peças de LEGO®.
 
+maldicaoTabelas2.png
+
 Chegamos então na provocação central deste artigo. O “paradigma” (odeio esta palavra…) de linhas e colunas, juntamente com o robusto e maduro modelo relacional, com sua álgebra relacional, é a melhor ferramenta para organizar dados sobre biodiversidade? Depende. De que “dados sobre biodiversidade” estamos falando?
 
 Sem dúvida alguma, conjuntos de tabelas relacionadas tem seu papel na organização de dados sobre biodiversidade. O que é diferente de dizer que todos os dados sobre biodiversidade são bem representados por conjuntos de tabelas relacionadas.
 
 Alguns conjuntos e dados sobre biodiversidade podem ser melhor representados sob a forma de grafos, como já comentei nesta postagem aqui. E, outra forma de estruturar dados bem popular hoje em dia é sob a foma de documentos, onde o formato mais conhecido é o JSON (JavaScript Object Notation), o filho “celebridade” do XML. Abaixo um exemplo de documento JSON, contendo dados sobre uma espécie:
+
+maldicaoTabelas3.png
+https://jsoncrack.com/editor?json=6416148abbe4fd1e772fdc13
 
 É claro que modelar e organizar conjuntos de dados tem que considerar a “implementação”. Ou seja, um “sistema gerenciador de banco de dados” (SGBD) capaz de lidar com a estrutura de dados específica. Lá no artigo sobre grafos comentei que experimente o Neo4J. Para lidar com documentos, tenho brincado bastante com o MongoDB, e estou trabalhando em um projeto para desenvolver uma ferramenta para converter arquivos Darwin Core para o formato JSON, que podem ser gerenciados pelo MongoDB, por exemplo.
 
