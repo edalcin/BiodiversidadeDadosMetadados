@@ -12,7 +12,7 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 | 13/08/2020 | [Um Assistente pra chamar de seu](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20200813-assistentePraChamarSeu.md) |
 | 16/07/2018 | [O Domador](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20180716-domador.md) |
 | 02/06/2018 | [Sonhando com um lago](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20180602-sonhandoLago.md) |
-|  | []() |
+| 06/12/2017 | [A entrega da informação sobre biodiversidade](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20171206-entregaInformacaoBiodiversidade.md) |
 |  | []() |
 |  | []() |
 |  | []() |
