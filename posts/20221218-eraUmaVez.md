@@ -5,7 +5,7 @@
 
 Em agosto deste ano (2022) eu fiz uma postagem chamada “A ferramenta e o resultado do trabalho“, onde eu tive um despretensioso “insight“:
 
-“…Precisamos “comunicar com dados”. É a razão da existência deles. Dados precisam contar histórias, apresentar fatos e constituir evidências.”
+___“…Precisamos “comunicar com dados”. É a razão da existência deles. Dados precisam contar histórias, apresentar fatos e constituir evidências.”___
 
 Desde então fiquei com a clara percepção de que, como “pesquisadores”, somos “contadores de histórias” (Storytellers). Isso quer dizer que, com os dados coletados em nossas pesquisas, devemos ser capazes de construir uma narrativa relevante para formar uma história com enredo, personagens e ambiente para passar uma mensagem central. E é isso que fazemos em nossos artigos científicos, quando queremos comunicar com nossos pares. Fomos treinados e condicionados para isso. Porém, fomos treinados e incentivados a fazer essa comunicação em formatos muito específicos, como apresentações e painéis em congressos, e artigos científicos, geralmente de forma bem cartesiana, pouco criativa e, porque não dizer, entediante. Deste ponto divergem capacidades de comunicar para o público, com profissionais de jornalismo e comunicação científica. Entretanto, ainda estamos longe de contar histórias cativantes e impactantes sobre o status da biodiversidade para nossos tomadores de decisão, uma das minhas áreas de grande interesse profissional.
 
@@ -21,7 +21,7 @@ O ponto central desta postagem é que, pesquisando mais a fundo, descobri que �
 
 E mais! Data Storytelling é apenas uma das capacidades de algo que também vem me incomodando há algum tempo, e que descobri recentemente que não só tem um nome, mas que também já é uma área de conhecimento consolidada: “Data Literacy“, ou “Alfabetização de Dados”, que consiste na:
 
->“capacidade de ler, gerenciar, analisar e argumentar por meio de dados.”
+___“capacidade de ler, gerenciar, analisar e argumentar por meio de dados.”___
 
 Desde a última disciplina que ministrei em junho deste ano, e em recentes oficinas que participei, percebi que a maioria dos alunos, e mesmo pesquisadores e analistas  já com carreira consolidada, tem dificuldades nesta área. Não chega ao absurdo desta jornalista, que se mostra absolutamente “analfabeta” em dados, mas, em diferentes intensidades, a maioria dos alunos tem dificuldades. Por conta disto, minha outra leitura nessas férias tem sido o livro “Data Literacy in Practice: A complete guide to data literacy and making smarter decisions with data through intelligent actions“, que recomendo fortemente. Entretanto, existe também muita literatura gratuita por aí como, por exemplo, esta publicação aqui.
 
