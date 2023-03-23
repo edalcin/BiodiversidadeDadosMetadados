@@ -66,7 +66,8 @@ Uma proposta nesta direção é a do "Coders for Conservation". Um passo para um
 
 > :warning: __Atualização__: A proposta do "Coders for Conservation" não "decolou" e foi descontinuada.
 
-Referências
+## Referências
+
 [1] Stewart, Craig A., et al. “What is cyberinfrastructure.” Proceedings of the 38th annual ACM SIGUCCS fall conference: navigation and discovery. ACM, 2010.
 
 [2] Fowler, Martin, and J. Lewis. “Microservices a definition of this new architectural term.” URL: http://martinfowler. com/articles/microservices. html. Acessado em 15/01/2017.
