@@ -3,7 +3,7 @@
 
 Na preparação para ministrar a disciplina "Gestão de Informação em biodiversidade", do Mestrado Profissional Biodiversidade em Unidades de Conservação, me deparei com uma publicação interessantíssima: Guia de gestão de dados de pesquisa para bibliotecários e pesquisadores, dos pesquisadores Luis Fernando Sayão e Luana Sales, da Comissão Nacional de Energia Nuclear - CNEN. O guia é um primor e, até onde sei, preenche uma lacuna importantíssima na literatura nacional sobre o tema.
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/gestaoDadosPesquisa1.jpg)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/gestaoDadosPesquisa1.png)
 
 Voltado para pesquisadores e bibliotecários, o guia aborda questões como o ciclo de vida dos dados de pesquisa, documentação e proteção de dados, qualidade de dados e, ao meu ver, a "cereja do bolo" é o PGD - Plano de Gestão de Dados.
 
