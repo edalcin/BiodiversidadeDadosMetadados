@@ -3,6 +3,8 @@
 
 Há algum tempo estou convencido de que a informação sobre Biodiversidade tem quatro contextos fundamentais: O taxonômico, o espacial, o temporal e o temático.
 
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/contextosInformacaoBiodiversidade1.jpg)
+
 Afinal de contas, baseado na minha experiência, é o que as pessoas querem saber! Por exemplo:
 
 * Quais as espécies de bromélias do Parque Nacional de Itatiaia?
