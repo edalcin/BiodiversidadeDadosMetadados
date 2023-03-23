@@ -3,7 +3,7 @@
 
 O dado sobre biodiversidade cumpre um longo trajeto, com várias etapas intermediárias,  até chegar ao seu consumidor final e participar do processo de tomada de decisão. Assim como um produto de varejo qualquer, como uma blusa por exemplo, que é composta de tecido, linha e botões agregados de forma precisa e lógica, o dado sobre a biodiversidade é como o botão, ou a linha, ou mesmo o tecido. Na mão de “alfaiates” habilidosos estes elementos tomam forma e propósito.
 
-dadosDecisao1.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao1.jpg)
 
 Uma vez formada a imagem ilustrativa com o exemplo da blusa, fica fácil imaginar o produto final como a agregação de diferentes elementos – ou recursos de informação – cuja produção cumpre uma série de etapas ou trechos até chegar a sua forma final, que é atender um propósito específico do seu consumidor.  Assim, o que pretendo discutir aqui são os trechos percorridos pelo dado, da sua coleta até se transformar em um produto final, pronto para ser “consumido” em um processo de tomada de decisão.
 
@@ -15,15 +15,15 @@ O termo “last mile“, ou última milha, é utilizado em telecomunicações e 
 
 O primeiro trecho podemos chamar de “coleta“, que corresponde a observação do fato no mundo real e sua transcrição, de forma automatizada, como em “camera traps” ou sensoriamento remoto por exemplo; ou manual, como em cadernetas de campo. É o registro do fato biológico.
 
-dadosDecisao2.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao2.jpg)
 
 O segundo trecho podemos chamar de “sistematização“, onde este dado primário de ocorrência, taxonômico, ambiental ou socioeconômico, é sistematizado de forma estruturada, geralmente em uma planilha de dados, ou  através de um sistema informatizado, em um banco de dados. Chegamos então ao dado primário sobre biodiversidade3.
 
-dadosDecisao3.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao3.jpg)
 
 Podemos chamar de “__tratamento e qualificação__” um terceiro trecho, onde o dados primário recebem, tem refinado ou validado, seus contextos espaciais, taxonômicos, temáticos e temporais. É, por exemplo, onde a amostra recebe ou tem validada a sua identificação taxonômica. Dados de incerteza e precisão espacial também podem ser associados neste trecho.
 
-dadosDecisao4.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao4.jpg)
 
 Neste ponto chegamos aos primeiros produtos intermediários, primeira parada obrigatória para cumprir a “última milha”.
 
@@ -31,11 +31,11 @@ A partir destes produtos intermediários, processos de síntese e análise trans
 
 Neste ponto, antes de procurar destrinchar as características desta ultima etapa, vale a pena resumir e exemplificar o fluxo completo do dado de biodiversidade até que possa chegar na tomada de decisão:
 
-dadosDecisao5.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao5.jpg)
 
 Podemos exemplificar este fluxo com um exemplo muito simples:
 
-dadosDecisao6.jpg
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/dadosDecisao6.jpg)
 
 Chegamos no ponto onde o último trecho da entrega da informação ao consumidor se caracteriza como resultado da etapa de “customização e contextualização”, onde percebemos a importância de indicadores e índices, que criam um contexto;  associados a uma visualização direta, limpa e elegante. Customizada para o consumidor.
 
