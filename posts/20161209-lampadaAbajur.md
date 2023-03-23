@@ -26,6 +26,7 @@ O cenário institucional é composto por três instituições vinculadas ao MMA 
 Vários aspectos deste cenário e propostas de solução estão presentes no documento “Diretrizes para Integração de Dados de Biodiversidade” [2] publicado pelo próprio MMA em 2015, que traz, inclusive, uma “visão geral do sistema de informação para integração de dados do MMA” (Figura 1).
 
 ![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/lampadaAbajur2.png)
+_FIGURA 1 – Fonte: Silva et al. 2015_
 
 Sem dúvida, concordo com os autores que precisamos estabelecer no âmbito do MMA e suas vinculadas uma Infraestrutura de Dados sobre Biodiversidade, numa escala ministerial do que havia sido discutido na proposta da INDBio. Contudo, quero focar aqui apenas em um detalhe desta infraestrutura, que é a adequação do padrão Darwin Core (“DwC”) para atender parte significativa da demanda de integração de dados, no escopo do projeto citado.
 
