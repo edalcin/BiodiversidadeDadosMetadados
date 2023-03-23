@@ -1,5 +1,5 @@
 # Sustentabilidade de Sistemas de Informação para Biodiversidade
-## 15 de Janeiro de 207
+## 15 de Janeiro de 2017
 
 O Blog do rOpenSci trouxe um artigo bem interessante do Daniel Katz cujo primeiro parágrafo traz uma pergunta que não quer calar:
 
