@@ -3,11 +3,11 @@
 
 É difícil negar que "o quarto paradigma"[1] chegou nos estudos relacionados a biodiversidade e conservação[2]. O uso intensivo de dados, reflexo do crescimento exponencial dos "DAKs" (digital accessible knowledge)[3], criou um novo cenário no processo de tomada de decisão e formulação de políticas públicas relacionadas à biodiversidade e conservação: um cenário onde volumes maciços de dados heterogêneos e distribuídos necessitam ser qualificados, harmonizados e integrados para serem utilizados nos processos de síntese e análise.
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/SinteseAnaliseDadosBiodiversidade1.png)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/sinteseAnaliseDadosBiodiversidade1.png)
 
 Este novo cenário demanda, juntamente com novas técnicas, ferramentas e infraestrutura, novas capacidades e competências em uma equipe multidisciplinar, capacitada a manipular e integrar dados "brutos" em diferentes formatos e plataformas, desenvolver ferramentas de análise e síntese, qualificar dados de diferentes domínios de conhecimento, e selecionar e aplicar técnicas adequadas para resolver diferentes problemas.
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/SinteseAnaliseDadosBiodiversidade2.png)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/sinteseAnaliseDadosBiodiversidade2.png)
 
 Como exemplo destas novas competências, podemos citar o "cientista de dados", profissional com um repertório diferenciado de habilidades e conhecimentos, e com familiaridade em fundamentos de big data, programação, bancos de dados, padrões de dados e metadados, business intelligence, matemática, estatística, comunicação e visualização de dados.
 
@@ -25,7 +25,7 @@ Entretanto, é interessante perceber que, apesar de sermos um país megadiverso[
 
 Os núcleos do CNCFlora são formados por equipes multidisciplinares que compilam, tratam e analisam uma quantidade significativa de dados primários e secundários sobre as espécies-alvo dos recortes de análise, desenvolvendo ferramentas computacionais, produzindo e publicando resultados de síntese e análise sobre estas espécies.
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/SinteseAnaliseDadosBiodiversidade3.png)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/sinteseAnaliseDadosBiodiversidade3.png)
 
 Contudo, em minha opinião, ainda carecemos de um centro nacional integrado de síntese e análise em biodiversidade, capaz de alavancar todo o potencial dos recentes esforços de digitalização de dados primários realizados pelo Sistema de Informação sobre a Biodiversidade Brasileira (SIBBr), qualificando-os e integrando-os com outros recursos de informação, gerando conhecimento e informação qualificada e contextualizada para tomada de decisão.
 
@@ -38,5 +38,3 @@ Contudo, em minha opinião, ainda carecemos de um centro nacional integrado de s
 [3] Ariño, Arturo H., Vishwas Chavan, and Javier Otegui. "Best Practice Guide for Data Gap Analysis for Biodiversity Stakeholders." (2016).
 
 [4] Forzza, Rafaela C., et al. "New Brazilian floristic list highlights conservation challenges." BioScience 62.1 (2012): 39-45.
-
-[cite]
