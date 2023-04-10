@@ -4,7 +4,7 @@
 
 >_"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves._"
 >
->_Alan Kay_
+>[_Alan Kay_](https://queue.acm.org/detail.cfm?id=1039523)
 
 O desenvolvimento de sistemas de informação para biodiversidade não é trivial. Na verdade, o domínio da biodiversidade agrega um complicador - a "diversidade biológica" - a algo que já é, em si, complexo: materializar o desejo do usuário na forma de um software. Neste contexto, o volume de frustração gerado é, via de regra, superior ao volume de satisfação obtido.
 
@@ -54,7 +54,7 @@ Conheço algumas iniciativas que fracassaram ou, segundo a figura acima, não cr
 
 Ainda neste aspecto - qualidade do conteúdo - muitos relutam em tornar público dados que consideram de baixa qualidade, com medo de sofrer do mal acima. Entretanto, o remédio para este mal é a responsividade do conteúdo em se atualizar com base nas críticas feitas. Oferecer um canal de comunicação com o usuário, e responder a sua crítica (quando pertinente) de forma rápida parece ser o segredo do sucesso.
 
-Um exemplo que posso usar é o da Flora do Brasil 2020. Como qualquer base de dados neste universo, não é perfeita. Porém, absorve a crítica de cerca de 700 especialistas, através da sua interface, projetada para tal; e ainda conta com uma equipe de suporte e um e-mail de contato. O conteúdo da Flora do Brasil 2020 é produto de uma construção coletiva com alto dinamismo e o sistema foi pensado inicialmente desta forma[7]. Isso parece ter feito toda a diferença.
+Um exemplo que posso usar é o da [Flora do Brasil 2020](http://floradobrasil.jbrj.gov.br/). Como qualquer base de dados neste universo, não é perfeita. Porém, absorve a crítica de cerca de 700 especialistas, através da sua interface, projetada para tal; e ainda conta com uma equipe de suporte e um e-mail de contato. O conteúdo da Flora do Brasil 2020 é produto de uma construção coletiva com alto dinamismo e o sistema foi pensado inicialmente desta forma[7]. Isso parece ter feito toda a diferença.
 
 Em resumo, um sistema de informações com dados incapazes de responder à críticas, seja feita por contribuição de um especialista ou pela obviedade do fato (a ocorrência de uma árvore no meio do oceano), entra no ciclo acima de insatisfação do usuário, gerando uma baixa utilização do sistema.
 
@@ -66,27 +66,27 @@ Gosto de cozinhar e na cozinha aprendemos que o que sai de lá para a mesa depen
 
 ### Liberdade tecnológica
 
-Preciso confessar que fui, em parte, motivado a escrever este texto por uma troca de emails recente com uma colega do South African National Biodiversity Institute - SANBI, que lamentava não ter um ambiente capaz de produzir um sistema de avaliação de risco de extinção como o do Centro Nacional de Conservação da Flora - CNCFlora.
+Preciso confessar que fui, em parte, motivado a escrever este texto por uma troca de emails recente com uma colega do [South African National Biodiversity Institute - SANBI](http://www.sanbi.org/), que lamentava não ter um ambiente capaz de produzir um sistema de avaliação de risco de extinção como o do [Centro Nacional de Conservação da Flora - CNCFlora](http://cncflora.jbrj.gov.br/).
 
 Na conversa, ficou claro as diferentes "variáveis ambientais" que as duas instituições possuíam e uma delas era restrição a determinadas plataformas (ou obrigatoriedade de ficar restrito a outras):
 
 >__...According to our Biodiversity Informatics Manager they do not want us to develop any system that requires use of open source software. He only wants us to use MySQL or Microsoft applications...__
 
-Existem muitas definições para um termo novo que anda frequentando sites de desenvolvimento: "Agnosticismo Tecnológico". A que eu considero que melhor se aplica aqui é "Technology agnostic is a term that we use in the business that simply means, we are unbiased towards the use of different technology tools to solve different problems."
+Existem [muitas definições](https://www.google.com.br/webhp?q=agnostic+technology) para um termo novo que anda frequentando sites de desenvolvimento: "Agnosticismo Tecnológico". A que eu considero que melhor se aplica aqui é ["Technology agnostic is a term that we use in the business that simply means, we are unbiased towards the use of different technology tools to solve different problems."](http://www.commonplaces.com/blog/are-you-technology-agnostic/)
 
 A essência desta variável que chamo aqui de liberdade tecnológica é oferecer aos arquitetos do sistema encontrar a melhor solução tecnológica para o problema, sem restrições.
 
-É claro que, como em tudo, a liberdade absoluta é uma utopia e não seria razoável, por exemplo, que em nome desta "liberdade" se decidisse desenvolver um sistema em uma linguagem de programação obscura ou de baixa popularidade, pois sua manutenção estaria comprometida pela dificuldade de se encontrar recursos humanos no mercado.
+É claro que, como em tudo, a liberdade absoluta é uma utopia e não seria razoável, por exemplo, que em nome desta "liberdade" se decidisse desenvolver um sistema em uma linguagem de programação obscura ou de [baixa popularidade](http://pypl.github.io/PYPL.html), pois sua manutenção estaria comprometida pela dificuldade de se encontrar recursos humanos no mercado.
 
 Contudo, não me parece razoável também, como no caso do SANBI, restringir as opções de solução a um conjunto extremamente limitado de plataformas. É como ter na cozinha apenas batatas...
 
-O exercício da liberdade tecnológica, em um ambiente receptivo, favorece a experimentação e a inovação. Como falado acima, desenvolver sistemas para biodiversidade não é trivial e não seria na trivialidade que encontraríamos as melhores soluções computacionais. Algumas novas tecnologias e abordagens parecem muito promissoras para lidar com dados de biodiversidade e especialmente com entidades biológicas, como bancos de dados orientados a grafos, para lidar com a complexa relação taxonômica e o conceito de taxon; bancos de dados NoSQL, para se libertar de esquemas rígidos de normalização; persistência e programação poliglota, buscando encontrar a melhor solução para cada problema; e arquitetura baseada em micro-serviços, potencializando a modularização e a reutilização de códigos.
+O exercício da liberdade tecnológica, em um ambiente receptivo, favorece a experimentação e a inovação. Como falado acima, desenvolver sistemas para biodiversidade não é trivial e não seria na trivialidade que encontraríamos as melhores soluções computacionais. Algumas novas tecnologias e abordagens parecem muito promissoras para lidar com dados de biodiversidade e especialmente com entidades biológicas, como [bancos de dados orientados a grafos](https://en.wikipedia.org/wiki/Graph_database), para lidar com a complexa relação taxonômica e o conceito de taxon; [bancos de dados NoSQL](https://www.thoughtworks.com/insights/blog/nosql-databases-overview), para se libertar de esquemas rígidos de normalização; [persistência](http://martinfowler.com/bliki/PolyglotPersistence.html) e [programação poliglota](http://martinfowler.com/bliki/OneLanguage.html), buscando encontrar a melhor solução para cada problema; e [arquitetura baseada em micro-serviços](http://martinfowler.com/articles/microservices.html), potencializando a modularização e a reutilização de códigos.
 
 ### Liberdade metodológica
 
-Em fevereiro de 2001 dezessete desenvolvedores publicaram um manifesto que, ao meu ver, revolucionou a forma de se desenvolver software: o "Manifesto para Desenvolvimento Ágil de Software". O "Manifesto Ágil" possui um conjunto de 12 princípios que viraram de cabeça pra baixo as abordagens clássicas de desenvolvimento e suas métricas, e tiraram da zona de conforto os analistas "da velha guarda". Apesar de alguns métodos e práticas já existirem antes da publicação do manifesto, estes acabaram por se consolidar em torno do "movimento ágil", criando uma nova geração de desenvolvedores. Essa garotada rebelde, que não liga pra documentação, pontos de função nem pra especificação de requerimentos, praticamente nasceu com um mouse na mão e, por isso, merece respeito. Além de respeito, se tiverem liberdade de usar métodos e práticas "ágeis", a chance de sucesso é muito grande.
+Em fevereiro de 2001 dezessete desenvolvedores publicaram um manifesto que, ao meu ver, revolucionou a forma de se desenvolver software: o ["Manifesto para Desenvolvimento Ágil de Software"](http://agilemanifesto.org/iso/ptbr/manifesto.html). O "Manifesto Ágil" possui um conjunto de [12 princípios](http://agilemanifesto.org/iso/ptbr/principles.html) que viraram de cabeça pra baixo as abordagens clássicas de desenvolvimento e suas métricas, e tiraram da zona de conforto os analistas "da velha guarda". Apesar de alguns métodos e práticas já existirem antes da publicação do manifesto, estes acabaram por se consolidar em torno do "movimento ágil", criando uma nova geração de desenvolvedores. Essa garotada rebelde, que não liga pra documentação, pontos de função nem pra especificação de requerimentos, praticamente nasceu com um mouse na mão e, por isso, merece respeito. Além de respeito, se tiverem liberdade de usar métodos e práticas "ágeis", a chance de sucesso é muito grande.
 
-Até pouco tempo, era difícil convencer os "Velhos Barões da TI" que estes novos métodos eram aceitáveis. Afinal, a ignorância é a irmã mais velha do medo. Contudo, felizmente, a Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão lançou em 2015 o Guia de Projetos de Software com Práticas de Métodos Ágeis para o SISP! Minha fé na raça humana se renovou! Dá licença que escorreu uma lágrima aqui.... :)
+Até pouco tempo, era difícil convencer os "Velhos Barões da TI" que estes novos métodos eram aceitáveis. Afinal, a ignorância é a irmã mais velha do medo. Contudo, felizmente, a Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão lançou em 2015 o [Guia de Projetos de Software com Práticas de Métodos Ágeis para o SISP](http://www.sisp.gov.br/guiaagil/wiki/download/file/Guia_de_Projetos_%C3%81geis)! Minha fé na raça humana se renovou! Dá licença que escorreu uma lágrima aqui.... :)
 
 ### Equipe técnica
 
@@ -110,9 +110,9 @@ Por fim, alguns detalhes que podem fazer a diferença:
 
 ### Exportação e exposição dos dados
 
-Vivemos em uma época em que máquinas conversam com máquinas. Além disto, dados sobre biodiversidade querem e precisam ser abertos e integrados [10, 11, 12]. Seja para pesquisadores que querem usar os dados em processos de análise e síntese, seja para agregadores, como SiBBr, Portal da Biodiversidade do ICMBio ou GBIF, __exponha os dados do seu sistema__. Faça isso tanto para máquinas como para humanos, usando padrões internacionais de dados e metadados e na maior variedade de formatos possível. DWC, EML, XLS, JSON, XML, DBF, CSV, PDF, DOC, SHP, ODS e SQL são alguns dos sabores que você pode e deve oferecer seus dados. Afinal, "o cliente tem sempre razão"!
+Vivemos em uma época em que máquinas conversam com máquinas. Além disto, dados sobre biodiversidade querem e precisam ser abertos e integrados [10, 11, 12]. Seja para pesquisadores que querem usar os dados em processos de análise e síntese, seja para agregadores, como [SiBBr](http://sibbr.gov.br/), [Portal da Biodiversidade do ICMBio](https://portaldabiodiversidade.icmbio.gov.br/) ou [GBIF](http://www.gbif.org/), __exponha os dados do seu sistema__. Faça isso tanto para máquinas como para humanos, usando padrões internacionais de dados e metadados e na maior variedade de formatos possível. DWC, EML, XLS, JSON, XML, DBF, CSV, PDF, DOC, SHP, ODS e SQL são alguns dos sabores que você pode e deve oferecer seus dados. Afinal, "o cliente tem sempre razão"!
 
-Agora, vamos todos dar as mãos e recitar o "mantra" das "Três Leis dos Dados Abertos Governamentais", mas não exclusivas à estes, propostas por David Eaves e abençoadas pelo governo brasileiro:
+Agora, vamos todos dar as mãos e recitar o "mantra" das ["Três Leis dos Dados Abertos Governamentais"](https://eaves.ca/2009/09/30/three-law-of-open-government-data/), mas não exclusivas à estes, propostas por [David Eaves](https://eaves.ca/about-david/) e [abençoadas pelo governo brasileiro](http://dados.gov.br/dados-abertos/):
 
 1. Se o dado não pode ser encontrado e indexado na Web, ele não existe;
 2. Se não estiver aberto e disponível em formato compreensível por máquina, ele não pode ser reaproveitado; e
@@ -122,7 +122,7 @@ AMÉM!
 
 ### Licença de uso
 
-Esteja certo de que seus dados são oferecidos acompanhadas de uma licença de uso. Fica muito mais fácil e atrativo usar seus dados quando os termos para usá-los são claros e explícitos. Existem várias licenças disponíveis e o GBIF possui documentos [13] e orientações sobre isso. Contudo, se for possível exercitar o desapego na sua forma mais sublime, opte pela Creative Commons Zero (CC0). Aqui está uma boa justificativa para optar pela CC0.
+Esteja certo de que seus dados são oferecidos acompanhadas de uma licença de uso. Fica muito mais fácil e atrativo usar seus dados quando os termos para usá-los são claros e explícitos. Existem várias licenças disponíveis e o GBIF possui documentos [13] e [orientações](http://www.gbif.org/terms/licences) sobre isso. Contudo, se for possível exercitar o desapego na sua forma mais sublime, opte pela [Creative Commons Zero (CC0)](https://creativecommons.org/choose/zero/?lang=pt_BR). Aqui está uma boa justificativa para optar pela CC0.
 
 ### Valorize as críticas ao conteúdo
 
