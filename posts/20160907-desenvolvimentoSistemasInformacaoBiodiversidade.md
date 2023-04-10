@@ -142,30 +142,30 @@ Um sistema baseado na web deve considerar ser acessado não só por computadores
 
 ## Referências
 
-[1] Dalcin, E. (1988). Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos. Plumeria, Boletín de los jardines botánicos de Latinoámerica y del Caribe, No.6. ISSN- 1405-6593. Associación Latinoamericana y del Caribe de Jardines Botanicos.
+[1] [Dalcin, E. (1988). Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos. Plumeria, Boletín de los jardines botánicos de Latinoámerica y del Caribe, No.6. ISSN- 1405-6593. Associación Latinoamericana y del Caribe de Jardines Botanicos.](https://www.researchgate.net/publication/265325233_Aspectos_na_Implementacao_de_Sistemas_de_Registros_Informatizados_em_Jardins_Botanicos)
 
-[2] Berendsohn, W. G. (1995). The concept of "potential taxa" in databases. Taxon 44: 207-212. . ISSN 0040-0262.
+[2] [Berendsohn, W. G. (1995). The concept of "potential taxa" in databases. Taxon 44: 207-212. . ISSN 0040-0262.](http://www.bgbm.org/biodivinf/Docs/PotentialTaxa/PotentialTaxa.pdf)
 
 [3] Berendsohn, W. G., et al. 1999. A comprehensive reference model for biological collections and surveys. Taxon (1999): 511-562.
 
-[4] Common Data Model. EDIT Platform for Cybertaxonom, n.d. Web. 30 Aug. 2016.
+[4] [Common Data Model. EDIT Platform for Cybertaxonom, n.d. Web. 30 Aug. 2016.](http://dev.e-taxonomy.eu/redmine/projects/edit/wiki/CommonDataModel)
 
-[5] Hobern, Donald, et al. (2013). Global biodiversity informatics outlook: delivering biodiversity knowledge in the information age. Global Biodiversity Information Facility (Secretariat).
+[5] [Hobern, Donald, et al. (2013). Global biodiversity informatics outlook: delivering biodiversity knowledge in the information age. Global Biodiversity Information Facility (Secretariat).](http://www.biodiversityinformatics.org/)
 
-[6] DeLone, W. H., & McLean, E. R. (1992). Information systems success: The quest for the dependent variable. Information systems research, 3(1), 60-95.
+[6] [DeLone, W. H., & McLean, E. R. (1992). Information systems success: The quest for the dependent variable. Information systems research, 3(1), 60-95.](http://herbsleb.org/SCALEpapers/delone-information-1992.pdf)
 
-[7] Esteves, M. G. P., Zimbrão, G., do Carmo, F. B., Forzza, R. C., Vaz, M., Filardi, F. L. R., ... & de Souza, J. M. (2015, May). A crowdsourcing approach to the design of Virtual Research Environments. In Computer Supported Cooperative Work in Design (CSCWD), 2015 IEEE 19th International Conference on (pp. 455-461). IEEE.
+[7] [Esteves, M. G. P., Zimbrão, G., do Carmo, F. B., Forzza, R. C., Vaz, M., Filardi, F. L. R., ... & de Souza, J. M. (2015, May). A crowdsourcing approach to the design of Virtual Research Environments. In Computer Supported Cooperative Work in Design (CSCWD), 2015 IEEE 19th International Conference on (pp. 455-461). IEEE.](https://www.researchgate.net/publication/281637903_A_crowdsourcing_approach_to_the_design_of_Virtual_Research_Environments_A_Case_study_of_the_collaborative_work_edition_of_the_Brazilian_Flora_checklist)
 
-[8] de Jesus, R. G., & de Araujo, P. M. C. (2011). O Impacto do Compromentimento na Implantação de Sistemas de Informação: o Caso Garoto-sap. VIII Simpósio deExcelência em Gestão e Tecnologia.
+[8] [de Jesus, R. G., & de Araujo, P. M. C. (2011). O Impacto do Compromentimento na Implantação de Sistemas de Informação: o Caso Garoto-sap. VIII Simpósio deExcelência em Gestão e Tecnologia.](http://www.aedb.br/seget/arquivos/artigos11/38614511.pdf)
 
-[9] Ferreira, A. C. de Sousa & Bufoni, A. L. (2006). Fatores de sucesso e insucesso na implementação de sistemas de informação gerencial: estudo do caso do segmento de exploração e produção de petróleo da Petrobrás S/A. Revista de Administração Contemporânea, 10(2), 9-31. <https://dx.doi.org/10.1590/S1415-65552006000200002>
+[9] [Ferreira, A. C. de Sousa & Bufoni, A. L. (2006). Fatores de sucesso e insucesso na implementação de sistemas de informação gerencial: estudo do caso do segmento de exploração e produção de petróleo da Petrobrás S/A. Revista de Administração Contemporânea, 10(2), 9-31. <https://dx.doi.org/10.1590/S1415-65552006000200002>](http://www.scielo.br/scielo.php?pid=S1415-65552006000200002&script=sci_arttext)
 
-[10] Costello, M. J., Michener, W. K., Gahegan, M., Zhang, Z. Q., & Bourne, P. E. (2013). Biodiversity data should be published, cited, and peer reviewed. Trends in Ecology & Evolution, 28(8), 454-461.
+[10] [Costello, M. J., Michener, W. K., Gahegan, M., Zhang, Z. Q., & Bourne, P. E. (2013). Biodiversity data should be published, cited, and peer reviewed. Trends in Ecology & Evolution, 28(8), 454-461.](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(13)00109-2)
 
-[11] Sayão, L. F., & Sales, L. F. (2014). Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92.
+[11] [Sayão, L. F., & Sales, L. F. (2014). Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92.](https://www.researchgate.net/publication/263618733_Dados_abertos_de_pesquisa_ampliando_o_conceito_de_acesso_livre)
 
-[12] Uhlir, P. F., & Schröder, P. (2007). Open data for global science. Data Science Journal, 6, OD36-OD53.
+[12] [Uhlir, P. F., & Schröder, P. (2007). Open data for global science. Data Science Journal, 6, OD36-OD53.](https://www.researchgate.net/publication/220390291_Open_Data_for_Global_Science)
 
-[13] Chavan, V. (2012). Recommended Practices for Citation of the Data Published through the GBIF Network. Copenhagen: GBIF Secretariat. Retrieved July, 30, 2013.
+[13] [Chavan, V. (2012). Recommended Practices for Citation of the Data Published through the GBIF Network. Copenhagen: GBIF Secretariat. Retrieved July, 30, 2013.](http://www.gbif.org/resource/80761)
 
-[14] Johnson-Lenz, Peter, and Trudy Johnson-Lenz. Rhythms, Boundaries, and Containers: Creative Dynamics of Asynchronous Group Life. N.p., Apr. 1990. Web. 7 Sept. 2016.
+[14] [Johnson-Lenz, Peter, and Trudy Johnson-Lenz. Rhythms, Boundaries, and Containers: Creative Dynamics of Asynchronous Group Life. N.p., Apr. 1990. Web. 7 Sept. 2016.](http://nexus.awakentech.com:8080/at/awaken1.nsf/UNIDs/CFB70C1957A686E98825654000699E1B?OpenDocument)
