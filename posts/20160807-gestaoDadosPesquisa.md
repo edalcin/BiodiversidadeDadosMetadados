@@ -1,7 +1,7 @@
 # Gestão de Dados de Pesquisa
 ## 07 de agosto de 2016
 
-Na preparação para ministrar a disciplina "Gestão de Informação em biodiversidade", do Mestrado Profissional Biodiversidade em Unidades de Conservação, me deparei com uma publicação interessantíssima: Guia de gestão de dados de pesquisa para bibliotecários e pesquisadores, dos pesquisadores Luis Fernando Sayão e Luana Sales, da Comissão Nacional de Energia Nuclear - CNEN. O guia é um primor e, até onde sei, preenche uma lacuna importantíssima na literatura nacional sobre o tema.
+Na preparação para ministrar a disciplina "Gestão de Informação em biodiversidade", do Mestrado Profissional Biodiversidade em Unidades de Conservação, me deparei com uma publicação interessantíssima: [Guia de gestão de dados de pesquisa para bibliotecários e pesquisadores](https://eduardo.dalc.in/wp-content/uploads/2016/12/guia_de_dados_de_pesquisa.pdf), dos pesquisadores [Luis Fernando Sayão](https://www.researchgate.net/profile/Luis_Sayao) e [Luana Sales](https://www.researchgate.net/profile/Luana_Sales2), da Comissão Nacional de Energia Nuclear - CNEN. O guia é um primor e, até onde sei, preenche uma lacuna importantíssima na literatura nacional sobre o tema.
 
 ![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/gestaoDadosPesquisa1.png)
 
