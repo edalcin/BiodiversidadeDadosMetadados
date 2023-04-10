@@ -10,7 +10,7 @@ O desenvolvimento de sistemas de informação para biodiversidade não é trivia
 
 Não é de hoje que computadores são utilizados para manejar dados de biodiversidade. Na década de 60 e 70, já eram utilizados para processar registros de herbários e na década de 80 muito se avançou na gestão de dados taxonômicos, ou sobre as espécies. Entretanto, mesmo com todo este conhecimento acumulado, uma grande maioria de iniciativas louváveis pereceram, enquanto outras poucas sobreviveram. Assim, o que pretendo ponderar aqui é porquê algumas iniciativas em sistemas de informação sobre biodiversidade falham enquanto outras são bem sucedidas. Acredito que exista algum aprendizado nesta reflexão.
 
-Nesta análise, não tenho como deixar de considerar um artigo que escrevi em 1998, que este ano completa a maioridade, intitulado "[Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos](https://www.researchgate.net/publication/265325233_Aspectos_na_Implementacao_de_Sistemas_de_Registros_Informatizados_em_Jardins_Botanicos)" [1]. É curioso perceber que, apesar da idade, as considerações ali contidas ainda são válidas, obviamente respeitando-se as diferenças do cenário tecnológico vigentes na época.
+Nesta análise, não tenho como deixar de considerar um artigo que escrevi em 1998, que este ano completa a maioridade, intitulado "[Aspectos na Implementação de Sistemas de Registros Informatizados em Jardins Botânicos](https://www.researchgate.net/publication/265325233_Aspectos_na_Implementacao_de_Sistemas_de_Registros_Informatizados_em_Jardins_Botanicos)" [1](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias). É curioso perceber que, apesar da idade, as considerações ali contidas ainda são válidas, obviamente respeitando-se as diferenças do cenário tecnológico vigentes na época.
 
 O artigo citava "armadilhas" a se evitar e "passos fundamentais para o sucesso" na implementação de um "sistema de registros informatizado". Seguirei nesta linha, buscando validar, atualizar ou complementar estes pontos, procurando encontrar um cenário propício para o desenvolvimento de sistemas de informação sobre biodiversidade bem sucedidos.
 
@@ -40,11 +40,11 @@ O que tenho visto é que no processo de concepção do sistema, onde o entendime
 
 Esta armadilha é muito comum em iniciativas que, por diversas razões, contratam no mercado uma empresa especializada em desenvolvimento de sistemas. Nestas empresas é razoável encontrar equipe técnica capacitada a desenvolver sistemas mais "tradicionais", sem conhecimento prévio ou experiência com o domínio do problema - a biodiversidade.
 
-De qualquer forma, ignorar conceitos e modelos propostos [2, 3 e 4] e o esforço intelectual já sistematizado de muitos [5], é uma armadilha a se evitar.
+De qualquer forma, ignorar conceitos e modelos propostos [2, 3 e 4](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias) e o esforço intelectual já sistematizado de muitos [5](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias), é uma armadilha a se evitar.
 
 ## Qualidade do sistema vs. qualidade do conteúdo
 
-Como diz uma querida amiga, "estudos indicam" [6] que, resumidamente, um sistema de informações de "sucesso" é resultado de uma relação entre um software de qualidade e um conteúdo de qualidade.
+Como diz uma querida amiga, "estudos indicam" [6](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias) que, resumidamente, um sistema de informações de "sucesso" é resultado de uma relação entre um software de qualidade e um conteúdo de qualidade.
 
 ![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/desenvolvimentoSistemasInformacaoBiodiversidade2.jpg)
 
@@ -54,7 +54,7 @@ Conheço algumas iniciativas que fracassaram ou, segundo a figura acima, não cr
 
 Ainda neste aspecto - qualidade do conteúdo - muitos relutam em tornar público dados que consideram de baixa qualidade, com medo de sofrer do mal acima. Entretanto, o remédio para este mal é a responsividade do conteúdo em se atualizar com base nas críticas feitas. Oferecer um canal de comunicação com o usuário, e responder a sua crítica (quando pertinente) de forma rápida parece ser o segredo do sucesso.
 
-Um exemplo que posso usar é o da [Flora do Brasil 2020](http://floradobrasil.jbrj.gov.br/). Como qualquer base de dados neste universo, não é perfeita. Porém, absorve a crítica de cerca de 700 especialistas, através da sua interface, projetada para tal; e ainda conta com uma equipe de suporte e um e-mail de contato. O conteúdo da Flora do Brasil 2020 é produto de uma construção coletiva com alto dinamismo e o sistema foi pensado inicialmente desta forma[7]. Isso parece ter feito toda a diferença.
+Um exemplo que posso usar é o da [Flora do Brasil 2020](http://floradobrasil.jbrj.gov.br/). Como qualquer base de dados neste universo, não é perfeita. Porém, absorve a crítica de cerca de 700 especialistas, através da sua interface, projetada para tal; e ainda conta com uma equipe de suporte e um e-mail de contato. O conteúdo da Flora do Brasil 2020 é produto de uma construção coletiva com alto dinamismo e o sistema foi pensado inicialmente desta forma[7](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias). Isso parece ter feito toda a diferença.
 
 Em resumo, um sistema de informações com dados incapazes de responder à críticas, seja feita por contribuição de um especialista ou pela obviedade do fato (a ocorrência de uma árvore no meio do oceano), entra no ciclo acima de insatisfação do usuário, gerando uma baixa utilização do sistema.
 
@@ -62,7 +62,7 @@ Vale notar que a busca constante pela qualidade do conteúdo (dados) e daquilo q
 
 ### Variáveis ambientais favoráveis
 
-Gosto de cozinhar e na cozinha aprendemos que o que sai de lá para a mesa depende do que tem na geladeira, dos equipamentos disponíveis e do repertório de receitas e da criatividade do chef. Simples assim. E não é diferente no desenvolvimento de sistemas. Cada {grupo, instituição, empresa} tem um conjunto de "variáveis" que acaba por condicionar o desenvolvimento, deixando suas marcas no produto final. Algumas variáveis causam impacto negativo, como por exemplo a falta de comprometimento da alta direção [8, 9], mas vou me deter aqui no que considero variáveis ambientais favoráveis ao desenvolvimento de sistemas de sucesso.
+Gosto de cozinhar e na cozinha aprendemos que o que sai de lá para a mesa depende do que tem na geladeira, dos equipamentos disponíveis e do repertório de receitas e da criatividade do chef. Simples assim. E não é diferente no desenvolvimento de sistemas. Cada {grupo, instituição, empresa} tem um conjunto de "variáveis" que acaba por condicionar o desenvolvimento, deixando suas marcas no produto final. Algumas variáveis causam impacto negativo, como por exemplo a falta de comprometimento da alta direção [8, 9](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias), mas vou me deter aqui no que considero variáveis ambientais favoráveis ao desenvolvimento de sistemas de sucesso.
 
 ### Liberdade tecnológica
 
@@ -122,11 +122,11 @@ AMÉM!
 
 ### Licença de uso
 
-Esteja certo de que seus dados são oferecidos acompanhadas de uma licença de uso. Fica muito mais fácil e atrativo usar seus dados quando os termos para usá-los são claros e explícitos. Existem várias licenças disponíveis e o GBIF possui documentos [13] e [orientações](http://www.gbif.org/terms/licences) sobre isso. Contudo, se for possível exercitar o desapego na sua forma mais sublime, opte pela [Creative Commons Zero (CC0)](https://creativecommons.org/choose/zero/?lang=pt_BR). Aqui está uma boa justificativa para optar pela CC0.
+Esteja certo de que seus dados são oferecidos acompanhadas de uma licença de uso. Fica muito mais fácil e atrativo usar seus dados quando os termos para usá-los são claros e explícitos. Existem várias licenças disponíveis e o GBIF possui documentos [13](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias) e [orientações](http://www.gbif.org/terms/licences) sobre isso. Contudo, se for possível exercitar o desapego na sua forma mais sublime, opte pela [Creative Commons Zero (CC0)](https://creativecommons.org/choose/zero/?lang=pt_BR). Aqui está uma boa justificativa para optar pela CC0.
 
 ### Valorize as críticas ao conteúdo
 
-A Internet criou bilhões de juízes cheios de razão e pedras na mão para criticar seu sistema e seus dados. Enquanto alguns deles querem apenas fazer você ficar chorando na cama em posição fetal, outros estão realmente dispostos a colaborar. Aproveite isso! Crie um canal de comunicação eficiente e __SEMPRE__ dê um feedback para uma colaboração. Preferencialmente, pense no seu sistema como uma plataforma colaborativa [7, 14].
+A Internet criou bilhões de juízes cheios de razão e pedras na mão para criticar seu sistema e seus dados. Enquanto alguns deles querem apenas fazer você ficar chorando na cama em posição fetal, outros estão realmente dispostos a colaborar. Aproveite isso! Crie um canal de comunicação eficiente e __SEMPRE__ dê um feedback para uma colaboração. Preferencialmente, pense no seu sistema como uma plataforma colaborativa [7, 14](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md#refer%C3%AAncias).
 
 ### Métricas de acesso
 
