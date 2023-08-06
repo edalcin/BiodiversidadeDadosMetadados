@@ -1,4 +1,4 @@
-## Ovelhas na Escócia
+## A Ovelha Negra
 
 >Certa vez estavam em um trem, cruzando a Escócia, um astrônomo, um biólogo e um matemático. Em um determinado trecho da viagem o trem passa por um campo onde havia uma ovelha negra. Imediatamente o astrônomo comenta:
 >Olhem! As ovelhas na Escócia são negras!
