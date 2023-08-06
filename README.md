@@ -4,6 +4,7 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 
 | Data | Título |
 | --- | --- |
+| 06/08/2023 | [A Ovelha Negra](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230806-ovelhaNegra.md)
 | 21/03/2023 | [A Maldição das Tabelas](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230321-maldicaoTabelas.md) |
 | 18/12/2022 | [Era uma vez, em um reino muito distante…](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20221218-eraUmaVez.md) |
 | 05/09/2022 | [Identidade Institucional](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20220905-identidadeInstitucional.md) |
@@ -24,3 +25,4 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 | 17/09/2016 | [Uma arquitetura para publicação de informações sobre biodiversidade](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160917-arquiteturaPublicacaoInformacoesBiodiversidade.md) |
 | 07/09/2016 | [Desenvolvimento de sistemas de informação para biodiversidade - armadilhas e variáveis de sucesso](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160907-desenvolvimentoSistemasInformacaoBiodiversidade.md) |
 | 07/08/2016 | [Gestão de Dados de Pesquisa](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20160807-gestaoDadosPesquisa.md) |
+
