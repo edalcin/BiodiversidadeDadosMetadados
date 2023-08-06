@@ -16,8 +16,8 @@ Neste cenário, que chega ser opressor em relação a quantidade e variedade de 
 
 Infelizmente, outra que é possivel fazer entre estudiosos da Biodiversidade e da Astronomia, em todas as suas minúcias, como Socioecologia e Radioastronomia, por exemplo, e respectivamente, é que, talvez, e apenas talvez, de tudo que compõe o universo, conhecemos e temos teorias para explicar apenas cerca de 5%. O resto é [Matéria Escura e Energia Escura](https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy), que não temos a menor idéia do que se trata...
 
+Para piorar o cenário, além da natureza dos dados ser absolutamente nova para mim, a natureza da análise - [Redes Multi-camadas](https://academic.oup.com/comnet/article/2/3/203/2841130) - também é de tirar o sono.
 
+De qualquer forma, percebi que minha participação modesta neste projeto já sacudiu positivamente as minhas "redes multi-camadas de conhecimento e relações interpessoais".
 
-
-
-
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra03.jpg)
