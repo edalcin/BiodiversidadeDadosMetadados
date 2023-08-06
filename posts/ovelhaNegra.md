@@ -10,7 +10,7 @@ Tenho grande interesse em conhecer a natureza dos dados que tangenciam questões
 
 O projeto, que achei de me intrometer, envolve dados da caracterização e interação entre comunidades, ambiente e recursos biológicos, englobando questões econômicas, sociais, culturais, ecológicas, paisagísticas, climáticas etc etc etc. Ou seja, a variedade e diversidade de dados envolvida apenas para caracterizar adequadamente (ou, matematicamente, como em nossa anedota) cada um destes "macro-elementos" já é colossal. Na sequência, existe a necessidade de dados que caracterizem quali-quantitativamente a minúcia das relações entre todos estes macro-elemento para, somente ai, procurar padrões que apontem para os possíveis "alicerces" destas relações.
 
-Neste cenário, que chega ser opressor em relação a quantidade e variedade de dados que precisam ser "organizados" logicamente, sinto-me como o astrônomo que, em função das suas limitações de dados "observacionais", faz generalizações ingênuas e imprecisas sobre o universo (ou multiverso). É como querer entender o oceano, pegando um pouco de água do mar com um balte, na beira da praia.
+Neste cenário, que chega ser opressor em relação a quantidade e variedade de dados que precisam ser "organizados" logicamente, sinto-me como o astrônomo que, em função das suas limitações de dados "observacionais", faz generalizações ingênuas e imprecisas sobre o universo (ou multiverso). É como querer entender o oceano, pegando um pouco de água do mar com um balde, na beira da praia.
 
 ![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra02.jpg)
 
