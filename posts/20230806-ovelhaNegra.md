@@ -17,7 +17,7 @@ O projeto, que achei de me intrometer, envolve dados da caracterização e inter
 
 Neste cenário, que chega ser opressor em relação à quantidade e variedade de dados que precisam ser "organizados" logicamente, sinto-me como o astrônomo que, em função das suas limitações de dados "observacionais", faz generalizações ingênuas e imprecisas sobre o universo (ou multiverso). É como querer entender o oceano, pegando um pouco de água do mar com um balde, na beira da praia.
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra02.jpg)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra02.png)
 
 Infelizmente, outra analogia que é possível fazer entre estudiosos da Biodiversidade e da Astronomia, é que, no caso da Astronomia, de tudo que compõe o universo, conhecemos e temos teorias para explicar apenas cerca de 5%. O resto é Matéria Escura e Energia Escura, que não temos a menor ideia do que se trata...
 
