@@ -20,4 +20,4 @@ Para piorar o cenário, além da natureza dos dados ser absolutamente nova para 
 
 De qualquer forma, percebi que minha participação modesta neste projeto já sacudiu positivamente as minhas "redes multi-camadas de conhecimento e relações interpessoais".
 
-![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra03.jpg)
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/ovelhaNegra03.png)
