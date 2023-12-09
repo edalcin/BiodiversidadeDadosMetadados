@@ -4,6 +4,8 @@
 
 Recentemente recebi de presente duas publicações muito interessantes: Restinga de Massambaba – Vegetação, Flora, Preservação e Usos e o Guia de Biodiversidade Marinha e Mergulho das Ilhas do Rio. Publicações riquíssimas e repletas de dados e informações relevantes. Publicações como estas representam o esforço coletivo de pesquisadores, alunos, editores, diagramadores, entre outros; no campo, no laboratório e no escritório. Dias, meses, se não, anos de trabalho duro.
 
+<img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes01.png" height="300"> <img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes02.png" height="300">
+
 O ponto aqui é: A importância, relevância e visibilidade deste árduo e valoroso trabalho está esgotada com estas publicações? Os recursos investidos para chegar neste produto final, materializado sob a forma de um “arquivo PDF”, foram potencializados ao máximo? A minha resposta à estas perguntas é um sonoro NÃO!
 
 Entendo e reconheço a importância de uma publicação em PDF. Uma solução já adaptada para um novo tempo, onde a impressão “física” de livros tem encontrado forte concorrência no mundo digital. Entretanto, e não mutualmente excludente às publicações “físicas” e digitais (PDFs), os dados que publicações como essas contém também são muito valiosos e úteis em formatos “estruturados”, especialmente se “acessíveis por máquinas”.
@@ -11,6 +13,8 @@ Entendo e reconheço a importância de uma publicação em PDF. Uma solução j�
 Vamos com calma agora. Se você nunca ouviu falar do “Quarto Paradigma para a Ciência”, vale a pena fazer um desvio aqui e dar uma olhada neste conceito, nesta apresentação anônima, ou melhor, ainda, passar os olhos na publicação original.
 
 Agora que estamos alinhados com o conceito da ciência desenvolvida não “in situ”, “ex situ” ou “in vitro”, mas “in silico”, precisamos estar alinhados com os “Princípios F.A.I.R.” que, em resumo, prega que os dados devem ser encontráveis, acessíveis, interoperáveis e reusáveis.
+
+<img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes03.png" height="300">
 
 Uma vez que estamos alinhados com os conceitos de que a ciência de hoje demanda dados e que, por conta disto, os dados precisam ser “FAIR“, voltemos ao ponto central desta postagem.
 
@@ -27,8 +31,17 @@ Meu jovem Padawan, aqui vão algumas dicas:
 * SEMPRE associe, explicitamente, uma licença de uso à sua publicação. Seja ela um texto em PDF, uma planilha, uma imagem, um banco de dados. O que for. Escolha o tipo de licença (recomendo a Creative Commons) e deixe isso claro nos metadados ou na sua publicação;
 * O PDF é um formato com alguns recursos que devem ser utilizados:
   * SEMPRE preencha os metadados do arquivo PDF. Ainda usando o “Restinga de Massambaba” como exemplo, o arquivo publicado no site oficial da instituição não tem, nos metadados, o título, assunto, palavras-chave nem o autor preenchidos!
+
+<img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes04.png" height="300">
+
   * SEMPRE salve ou converta o seu arquivo PDF para o formato PDF/A, pois este formato é o indicado para arquivamento e, de certa forma, impede que os metadados e o próprio arquivo seja modificado;
+
+<img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes04.png" height="300">  
+  
   * Opcionalmente, proteja o PDF contra modificações, por meio de uma senha institucional;
+
+<img src="http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/publicacoes05.png" height="300">
+  
   * Caso sua publicação tenha imagens ou fotos, SEMPRE associe a cada uma delas o “crédito” – autor da foto ou imagem;
 * SEMPRE publique, como {suplemento, anexo, data paper etc} os dados e imagens da sua publicação, usando um padrão de dados aberto e reconhecido para o tema de seus dados e sempre associando uma licença de uso;
   * Neste caso específico, de publicação de dados estruturados, se for um data paper procure um jornal adequado ao seu tema, como, por exemplo, o Biodiversity Data Journal.
