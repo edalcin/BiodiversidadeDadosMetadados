@@ -10,9 +10,9 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 
 | Data | Título |
 | --- | --- |
-| 24/02/2025 | [A planta e a espécie]() |
-| 28/01/2025 | [Negligenciando a preservação do conhecimento tradicional]() |
-| 14/08/2024 | [Vamos escrever um paper!]() |
+| 24/02/2025 | [A planta e a espécie](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20250224-aPlantaEAEspecie.md) |
+| 28/01/2025 | [Negligenciando a preservação do conhecimento tradicional](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20250125-negligenciandoAPreservacaoDoConhecimentoTradicional.md) |
+| 14/08/2024 | [Vamos escrever um paper!](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20240814-vamosEscreverUmPaper.md) |
 | 02/06/2024 | [Preservação do Conhecimento Tradicional Sobre o Uso das Plantas – pensando “fora da caixinha”](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20240602-preservacaoDoConhecimentoTradicional.md) |
 | 17/04/2024 | [Anatomia de uma ocorrência](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20240417-anatomiaDeUma%20Ocorrencia.md) |
 | 05/03/2024 | [“Por mares nunca dantes navegados…”](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20240305-porMaresNuncaDantesNavegados.md) |
