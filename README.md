@@ -4,7 +4,14 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 
 | Data | Título |
 | --- | --- |
-| 06/08/2023 | [A Ovelha Negra](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230806-ovelhaNegra.md)
+| 24/02/2025 | [A planta e a espécie]() |
+| 28/01/2025 | [Negligenciando a preservação do conhecimento tradicional]() |
+| 14/08/2024 | [Vamos escrever um paper!]() |
+| 02/06/2024 | [Preservação do Conhecimento Tradicional Sobre o Uso das Plantas – pensando “fora da caixinha”]() |
+| 17/04/2024 | [Anatomia de uma ocorrência]() |
+| 05/03/2024 | [“Por mares nunca dantes navegados…”]() |
+| 19/08/2023 | [Publicações e Publicações](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230819-PublicaoesPublicacoes.md) |
+| 06/08/2023 | [A Ovelha Negra](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230806-ovelhaNegra.md) |
 | 21/03/2023 | [A Maldição das Tabelas](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230321-maldicaoTabelas.md) |
 | 18/12/2022 | [Era uma vez, em um reino muito distante…](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20221218-eraUmaVez.md) |
 | 05/09/2022 | [Identidade Institucional](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20220905-identidadeInstitucional.md) |
