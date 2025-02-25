@@ -6,9 +6,9 @@ Era dois de março de 2004 e o verão estava chegando ao fim. A expedição ao P
 
 Como de costume, a descrição do material também é anotada em sua caderneta de campo:
 
-```
-Erva 3m alt., folhas verde-claras com bainha castanha, escapo rosado, brácteas do escapo rosadas na base, verdes no ápice, primarias rosa, raque verde clara, bráctea floral e sépalas amarelas, pétals alvas passando a amarelas, androceu e gineceu alvos, aroma adocicado, suave, 9 ex (exemplares).
-```
+
+>Erva 3m alt., folhas verde-claras com bainha castanha, escapo rosado, brácteas do escapo rosadas na base, verdes no ápice, primarias rosa, raque verde clara, bráctea floral e sépalas amarelas, pétals alvas passando a amarelas, androceu e gineceu alvos, aroma adocicado, suave, 9 ex (exemplares).
+
 
 De volta ao Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ) um dos nove exemplares foi tombado junto ao Herbário Dimitri Sucre, sob o no. de tombo RB 402256 (“otherCatalogNumbers”) e, seguindo a boas práticas, os exemplares restantes foram compartilhados com os herbários SP, SPF, MO, K (2 exemplares), MBM, NY, CEPEC e CTES, conforme descrito na etiqueta anexada ao material do JBRJ. Nestas instituições, as exsicatas foram acolhidas e catalogadas em seus sistemas de registro sob os seguintes números (ou “catalogNumber”, segundo o padrão Darwin Core):
 
