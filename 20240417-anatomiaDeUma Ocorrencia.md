@@ -89,3 +89,81 @@ Pontos de destaque:
 * Acredito que a conversão da coordenada expressa como “verbatim”, presente na etiqueta de coleta anexada às duplicatas, em diferentes sistemas e “DATUM”, possa ter causado a inconsistência;
 * CEPEC e MBM não consideram coordenadas geográficas em seus registros, ou não exportam;
 * MO parece ter se equivocado no valor inteiro, pulando uma casa para o ponto decimal.
+
+Um outro atributo de uma ocorrência é o “coletor”, visto que o conjunto “coletor” (dwc:recordedBy)+ “numero de Coleta” (dwc:recordNumber) são identificadores muito utilizados para uma ocorrência. Entretanto, da mesma forma, eles nem sempre são consistentes entre as amostras:
+
+| catalogNumber | recordedBy |
+| :--- | :--- |
+| SP371976 | Forzza, RC; et al. |
+| MO1527603 | Rafaela C. Forzza, Leandro C. S. Assis, Jomar G. Jardim, L.R. Lima;E. Lucas |
+| K000976359 | R.C. Forzza;J.G. Jardim,L.R. Lima,D. Zappi,L.C.S. Assis,E. Lucas,S. Edwards,B.r. Silva |
+| K000976360 | R.C. Forzza;J.G. Jardim,B.R. Silva,L.R. Lima,D. Zappi,L.C.S. Assis,E. Lucas,S. Edwards |
+| MBM297705 | Forzza, RC; et al. |
+| NY01018075 | R. C. Forzza |
+| CEPEC00101880 | R. C. Forzza |
+| RB00177367 | R.C. Forzza; et al. |
+
+Apenas NY e CEPEC concordam com a representação de quem foi o coletor das amostas.
+
+Por fim, vamos considerar o escopo taxonômico:
+
+| catalogNumber | scientificName |
+| :--- | :--- |
+| SP371976 | Alcantarea heloisae |
+| MO1527603 | Alcantarea odorata (Leme) J.R. Grant |
+| K000976359 | Alcantarea heloisae J.R.Grant |
+| K000976360 | Alcantarea odorata (Leme) J.R.Grant |
+| MBM297705 | Alcantarea odorata (Leme) J.R.Grant |
+| NY01018075 | Alcantarea odorata (Leme) J.R.Grant |
+| CEPEC00101880 | Alcantarea odorata |
+| RB00177367 | Alcantarea heloisae J.R.Grant |
+
+Duas espécies válidas (nomes aceitos) foram consideradas nas diferentes instituições.
+
+Em resumo, considerando apenas um sub-conjunto de atributos de uma ocorrência, este é o cenário:
+
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/anatomia2.png)
+
+Olhando apenas para o conjunto de dados associados às amostras. Podemos considerar que são “coisas diferentes”. Infelizmente, sem o contexto, muitas análises e sínteses de conhecimento acabam por acreditar nisso.
+
+## Considerações:
+
+Os dados de ocorrência publicados em repositórios temáticos, como o Integrated Publishing Toolkit (IPT), e agregados pelo GBIF e SiBBr, por exemplo, são notoriamente “sujos” (RIBEIRO et al., 2022; DOREY et al., 2023). Porém, Infelizmente, é neste cenário de absoluta inconsistência que algumas análises se apoiam. Mesmos grandes mapas “plotando” ocorrências, em “sites” de instituições agregadoras como GBIF e SiBBr acabam por mostrar uma imagem absolutamente impactante de “ocorrências”. Porém, absurdamente inflacionadas, e que estão longe de representar a realidade do fato biológico.
+
+![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/anatomia3.png)
+
+Para piorar um cenário que já é ruim, algumas coleções publicam seus dados em mais de um “repositório IPT”, o que acaba por promover uma redundância de registros ainda maior.
+
+Além disto, trabalhos, teses, dissertações, e mesmo avaliações do status de conservação, em sua avassaladora maioria, não trazem o detalhamento das etapas de tratamento, limpeza e harmonização dos dados de ocorrência considerados.
+
+Carecemos de padrões, protocolos e, em última instância, governança sobre estes dados, em escalas regional, nacional e mesmo global. O trabalho e re-trabalho de verificação, validação e harmonização deste conjunto gigantesco de dados de “ocorrências” é enorme e, em minha modesta opinião, tem atrasado a produção de informação relevante, quando não acaba produzindo informação com um nível de incerteza inaceitável para tomada de decisão e formulação de políticas públicas.
+
+Creio ainda que os dados de ocorrências em coleções científicas, o qual são a base da pirâmide do conhecimento da biodiversidade, são, de certa forma, negligenciados como objeto primário das análises. Parece que o conjunto de dados publicados que os representam no mundo virtual são priorizados na melhoria da qualidade, com ferramentas e algoritmos informatizados, enquanto o objeto físico na coleção em si permanece, por diversas razões, com baixa qualidade em seus “metadados” associados. É como dar mais importância à etiqueta da embalagem do que ao conteúdo do pacote!
+
+Gerir uma coleção física, como as exsicatas em um herbário, por exemplo, requer recursos humanos, financeiros e materiais significativos. Gerir um conjunto de dados requer apenas um computador ligado na tomada e na internet. Ambos os acervos – físico e virtual – necessitam de recursos humanos com diferentes competências em sua gestão. Entretanto, o acervo virtual é, ou deveria ser, uma representação fiel do acervo físico. Aprendi com meus mestres-jedi que “bancos de dados nada mais são que representações do mundo real”. Quando conjuntos de dados são transformados – limpos – para uma análise eles deixam de representar o acervo físico. Se tornam uma abstração criada pelo analista e seus algoritmos, que existe de forma efêmera e particular àquela análise, perdendo a relação de identidade com o acervo físico, ou seja, com o fato biológico no tempo e espaço.
+
+Penso que estamos gastando muito tempo e recursos arrumando, agregando e publicando dados, e dedicando pouco tempo e recursos para qualificar, organizar e preservar adequadamente as coleções físicas.
+
+## Nota Final
+
+Estas considerações foram feitas – apenas e exclusivamente – com base dos dados ofertados pelos seguintes IPTs, nas seguintes versões e datas:
+
+| No de Catálogo | URL do recurso no IPT correspondente | versão | data |
+| :--- | :---: | ---: | ---: |
+| SP371976 | http://ipt1.cria.org.br/ipt/resource?r=sp_fanerogamas | v1.105 | 2024-03-10 |
+| MO1527603 | https://ipt.jbrj.gov.br/reflora/resource?r=moh | v1.225 | 2024-01-01 |
+| K000976359 | https://ipt.jbrj.gov.br/reflora/resource?r=k_reflora | v1.227 | 2024-01-01 |
+| MBM297705 | https://ipt.jbrj.gov.br/jabot/resource?id=mbm | v1.10 | 2024-04-01 |
+| NY01018075 | https://ipt.jbrj.gov.br/reflora/resource?r=nyh | v1.224 | 2023-11-22 |
+| CEPEC00101880 | https://ipt.jbrj.gov.br/reflora/resource?r=cepec_herbarium | v1.285 | 2024-01-01 |
+| RB00177367 | https://ipt.jbrj.gov.br/jbrj/resource?r=jbrj_rb | v84.253 | 2024-03-12 |
+
+Sugestões, críticas e comentários são sempre bem-vindos!
+
+## Referências
+
+DOREY, James B.; FISCHER, Erica E.; CHESSHIRE, Paige R.; NAVA-BOLAÑOS, Angela; O’REILLY, Robert L.; BOSSERT, Silas; COLLINS, Shannon M.; LICHTENBERG, Elinor M.; TUCKER, Erika M.; SMITH-PARDO, Allan; FALCON-BRINDIS, Armando; GUEVARA, Diego A.; RIBEIRO, Bruno; DE PEDRO, Diego; PICKERING, John; HUNG, Keng-Lou James; PARYS, Katherine A.; MCCABE, Lindsie M.; ROGAN, Matthew S.; … COBB, Neil S. A globally synthesised and flagged bee occurrence dataset and cleaning workflow. Scientific Data, v. 10, n. 1, p. 747, 2 nov. 2023. https://doi.org/10.1038/s41597-023-02626-w.
+
+NELSON, G.; SWEENEY, P.; GILBERT, E. Use of globally unique identifiers (GUIDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences, v. 6, n. 2, p. e1027, 2018. https://doi.org/10.1002/aps3.1027.
+
+RIBEIRO, Bruno R.; VELAZCO, Santiago José Elías; GUIDONI‐MARTINS, Karlo; TESSAROLO, Geiziane; JARDIM, Lucas; BACHMAN, Steven P.; LOYOLA, Rafael. bdc : A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, v. 13, n. 7, p. 1421–1428, jul. 2022. https://doi.org/10.1111/2041-210X.13868.
