@@ -26,3 +26,14 @@ De volta ao Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ) um 
 Com duas amostras não localizadas – CTES e SPF, estas sete amostras se somam a amostra catalogada no herbário do Jardim Botânico do Rio de Janeiro, sob o número RB00177367 (“catalogNumber“), totalizando 8 amostras do que é considerado “uma mesma ocorrência”. Este é o cenário da relação do evento da coleta “Forzza 2843” com suas amostras:
 
 ![](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/BiodivDadosMeta/anatomia1.png)
+
+Agora começa a ficar “divertido”! Perceba que o conceito de “ocorrência”, segundo o padrão Darwin Core (DwC) é:
+
+>"An existence of a dwc:Organism at a particular place at a particular time."
+
+E, para identificar este fato único, no tempo e no espaço, ainda segundo o padrão DwC, seu identificador é o termo “ocurrenceID”, que deveria ser um identificador global único representando aquele fato no tempo e no espaço. Entretanto, na prática, não é o que ocorre. Como cita (NELSON; SWEENEY; GILBERT, 2018):
+
+>"…Depending on the properties being invoked, a herbarium specimen is at once an Occurrence and a materialSample, as each of these has overlapping properties. In many cases, an Occurrence could be considered equivalent to a herbarium specimen from a DwC per- spective; however, in the case of duplicates from the same organism, technically all of the specimens represent the same Occurrence and thus should all have the same occurrenceID…"
+
+Aqui deixamos claro que, tecnicamente, o correto seria que estas amostras da mesma ocorrência compartilhassem o mesmo “occurrenceID”, guardando sua individualidade nos seus “catalogNumber”. Mas não é o que ocorre:
+
