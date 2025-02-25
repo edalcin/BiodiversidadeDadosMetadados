@@ -9,7 +9,7 @@ Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 | 14/08/2024 | [Vamos escrever um paper!]() |
 | 02/06/2024 | [Preservação do Conhecimento Tradicional Sobre o Uso das Plantas – pensando “fora da caixinha”]() |
 | 17/04/2024 | [Anatomia de uma ocorrência]() |
-| 05/03/2024 | [“Por mares nunca dantes navegados…”]() |
+| 05/03/2024 | [“Por mares nunca dantes navegados…”](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20240305-porMaresNuncaDantesNavegados.md) |
 | 19/08/2023 | [Publicações e Publicações](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230819-PublicaoesPublicacoes.md) |
 | 06/08/2023 | [A Ovelha Negra](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230806-ovelhaNegra.md) |
 | 21/03/2023 | [A Maldição das Tabelas](https://github.com/edalcin/BiodiversidadeDadosMetadados/blob/main/posts/20230321-maldicaoTabelas.md) |
