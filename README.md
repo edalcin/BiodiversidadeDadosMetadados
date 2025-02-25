@@ -1,5 +1,11 @@
 # Biodiversidade Dados Metadados
 
+| [Sobre]() | [Aviso]() | [Publicações]() | [Lattes]() |
+| --- | --- | --- | --- |
+
+---
+
+
 Espelho das postagens em [eduardo.dalc.in](https://eduardo.dalc.in)
 
 | Data | Título |
