@@ -37,3 +37,55 @@ E, para identificar este fato único, no tempo e no espaço, ainda segundo o pad
 
 Aqui deixamos claro que, tecnicamente, o correto seria que estas amostras da mesma ocorrência compartilhassem o mesmo “occurrenceID”, guardando sua individualidade nos seus “catalogNumber”. Mas não é o que ocorre:
 
+| catalogNumber | ocurrenceID |
+| --- | --- |
+| SP371976 | BRA:IBT:SP:371976 |
+| MO1527603 | 3420129 |
+| K000976359 | 2019573 |
+| K000976360 | 2146332 |
+| MBM297705 | urn:catalog:MBM:297705 |
+| NY01018075 | 3099084 |
+| CEPEC00101880 | 2846238 |
+| RB00177367 | urn:catalog:JBRJ:RB:177367 |
+
+Entretanto, para os sistemas agregadores de dados e consumidores (descuidados), estes dados acabam por representar, equivocadamente, oito diferentes ocorrências, inflacionando perigosamente as análises baseadas nestes dados.
+
+Mas fica ainda melhor! Ainda temos os escopos taxonômico, espacial e temporal para considerar. Lembram que o conceito de ocorrência é “An existence of a dwc:Organism at a particular place at a particular time”? Vamos ao escopo “time”, com seus termos de representação no DwC:
+
+| catalogNumber | eventDate | verbatimEventDate | year | month | day |
+| :--- | :---: | :---: | ---: | ---: | ---: |
+| SP371976 |  |  | 2004 | 03 | 02 |
+| MO1527603 | 2/3/2004 |  | 2004 | 3 | 2 |
+| K000976359 | 3/2/2004 | 2004-02-03 | 2004 | 2 | 3 |
+| K000976360 | 2/3/2004 | 2004-03-02 | 2004 | 3 | 2 |
+| MBM297705 | 2004-3-2 |  | 2004 | 3 | 2 |
+| NY01018075 | 2/3/2004 | 2004-03-02 | 2004 | 3 | 2 |
+| CEPEC00101880 | 2/4/1992 | 2/4/1992 | 1992 | 4 | 2 |
+| RB00177367 | 2004-03-02 |  | 2004 | 03 | 02 |
+
+Pontos de atenção:
+
+* Considerando que o padrão DwC recomenta que o “eventDate” seja “…to use a date that conforms to ISO 8601-1:2019”, o registro do JBRJ é o único que atende a recomendação;
+* Para “month” e “day”, não é recomendado o uso do prefixo “0”, como em SP e RB;
+* K parece ter interpretado o “dia” como “mês”, e o “mês” como “dia”, em K000976359:
+* CEPEC só concorda com o “dia” da coleta.
+
+Vamos agora considerar o conceito do “espaço”:
+
+| catalogNumber | decimalLatitude | decimalLongitude | verbatimLatitude | verbatimLongitude |
+| :--- | ---: | ---: | ---: | ---: |
+| SP371976 | -21.8816670000000002 | -41.9433330000000026 |  |  |
+| MO1527603 | -218.83305555555555 | -419.3330555555556 |  |  |
+| K000976359 | -21.881666666666668 | -41.94333333333333 |  |  |
+| K000976360 | -21.865000000000002 | -41.94333333333333 |  |  |
+| MBM297705 |  |  |  |  |
+| NY01018075 | -21.8755555555555574 | -41.9394444444444403 |  |  |
+| CEPEC00101880 |  |  |  |  |
+| RB00177367 | -21.8816667 | -41.9433333 | 21º52´54´´ | 41º56´36´´W |
+
+Pontos de destaque:
+
+* Chama a atenção as diferentes “precisões”, representadas em casas decimais, para a mesma ocorrência;
+* Acredito que a conversão da coordenada expressa como “verbatim”, presente na etiqueta de coleta anexada às duplicatas, em diferentes sistemas e “DATUM”, possa ter causado a inconsistência;
+* CEPEC e MBM não consideram coordenadas geográficas em seus registros, ou não exportam;
+* MO parece ter se equivocado no valor inteiro, pulando uma casa para o ponto decimal.
