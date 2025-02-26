@@ -1,6 +1,7 @@
 # Biodiversidade Dados Metadados
+## Eduardo Dalcin
 
-| [Sobre]() | [Aviso]() | [Publicações]() | [Lattes]() |
+[Sobre]() | [Aviso]() | [Publicações]() | [Lattes]() |
 | --- | --- | --- | --- |
 
 ---
